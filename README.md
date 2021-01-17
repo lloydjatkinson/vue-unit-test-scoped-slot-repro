@@ -1,0 +1,1 @@
+# vue-unit-test-scoped-slot-repro
